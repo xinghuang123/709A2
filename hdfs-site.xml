@@ -1,0 +1,4 @@
+<property>
+    <name>dfs.replication</name>
+    <value>3</value>  <!-- Ensures fault tolerance -->
+</property>
